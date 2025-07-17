@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj",
+        "projectName": "BiogenomNutrition.Application",
+        "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj",
+        "packagesPath": "C:\\Users\\20020\\.nuget\\packages\\",
+        "outputPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\20020\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj": {
+                "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj",
+        "projectName": "BiogenomNutrition.Domain",
+        "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj",
+        "packagesPath": "C:\\Users\\20020\\.nuget\\packages\\",
+        "outputPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\20020\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj",
+        "projectName": "BiogenomNutrition.Infrastructure",
+        "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\20020\\.nuget\\packages\\",
+        "outputPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\20020\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {
+              "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
+                "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj"
+              },
+              "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj": {
+                "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.5.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

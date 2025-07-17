@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "BiogenomNutrition.Application/1.0.0": {
+        "dependencies": {
+          "BiogenomNutrition.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BiogenomNutrition.Application.dll": {}
+        }
+      },
+      "BiogenomNutrition.Domain/1.0.0": {
+        "runtime": {
+          "BiogenomNutrition.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BiogenomNutrition.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BiogenomNutrition.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

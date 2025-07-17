@@ -1,0 +1,15 @@
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\bin\Debug\net9.0\BiogenomNutrition.Application.deps.json
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\bin\Debug\net9.0\BiogenomNutrition.Application.dll
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\bin\Debug\net9.0\BiogenomNutrition.Application.pdb
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\bin\Debug\net9.0\BiogenomNutrition.Domain.dll
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\bin\Debug\net9.0\BiogenomNutrition.Domain.pdb
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\BiogenomNutrition.Application.csproj.AssemblyReference.cache
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\BiogenomNutrition.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\BiogenomNutrition.Application.AssemblyInfoInputs.cache
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\BiogenomNutrition.Application.AssemblyInfo.cs
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\BiogenomNutrition.Application.csproj.CoreCompileInputs.cache
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\Biogenom.2E81E60D.Up2Date
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\BiogenomNutrition.Application.dll
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\refint\BiogenomNutrition.Application.dll
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\BiogenomNutrition.Application.pdb
+C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Application\obj\Debug\net9.0\ref\BiogenomNutrition.Application.dll
