@@ -7,6 +7,6 @@
         public int NutrientId { get; set; }
         public decimal AddedValue { get; set; }
 
-        public Supplement Supplement { get; set; }
-        public Nutrient Nutrient { get; set; }
+        public Supplement Supplement { get; set; } = null!;
+        public Nutrient Nutrient { get; set; } = null!;
     }

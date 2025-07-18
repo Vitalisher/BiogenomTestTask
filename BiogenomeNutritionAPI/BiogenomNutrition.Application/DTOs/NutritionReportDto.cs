@@ -1,4 +1,4 @@
-﻿namespace BiogenomNutrition.Application;
+﻿namespace BiogenomNutrition.Application.DTOs;
 
     public class NutritionReportDto
     {

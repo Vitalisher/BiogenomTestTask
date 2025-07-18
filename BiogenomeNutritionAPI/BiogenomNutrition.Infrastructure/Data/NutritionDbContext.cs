@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using BiogenomNutrition.Domain.Entities;
-using BiogenomNutrition.Infrastructure.Repositories;
+using BiogenomNutrition.Infrastructure.Configurations;
 
 namespace BiogenomNutrition.Infrastructure.Data
 {

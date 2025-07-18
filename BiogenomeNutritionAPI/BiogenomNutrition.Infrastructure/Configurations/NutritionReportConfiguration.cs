@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace BiogenomNutrition.Infrastructure.Repositories;
+namespace BiogenomNutrition.Infrastructure.Configurations;
 
 public class NutritionReportConfiguration : IEntityTypeConfiguration<NutritionReport>
 {

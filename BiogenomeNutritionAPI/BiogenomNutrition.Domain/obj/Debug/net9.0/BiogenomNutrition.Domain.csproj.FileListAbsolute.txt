@@ -9,3 +9,15 @@ C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\Bioge
 C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\refint\BiogenomNutrition.Domain.dll
 C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\BiogenomNutrition.Domain.pdb
 C:\C#Learn\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\ref\BiogenomNutrition.Domain.dll
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\bin\Debug\net9.0\BiogenomNutrition.Domain.deps.json
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\bin\Debug\net9.0\BiogenomNutrition.Domain.dll
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\bin\Debug\net9.0\BiogenomNutrition.Domain.pdb
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\BiogenomNutrition.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\BiogenomNutrition.Domain.AssemblyInfoInputs.cache
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\BiogenomNutrition.Domain.AssemblyInfo.cs
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\BiogenomNutrition.Domain.csproj.CoreCompileInputs.cache
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\BiogenomNutrition.Domain.sourcelink.json
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\BiogenomNutrition.Domain.dll
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\refint\BiogenomNutrition.Domain.dll
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\BiogenomNutrition.Domain.pdb
+C:\GitBiogenom\BiogenomeNutritionAPI\BiogenomNutrition.Domain\obj\Debug\net9.0\ref\BiogenomNutrition.Domain.dll

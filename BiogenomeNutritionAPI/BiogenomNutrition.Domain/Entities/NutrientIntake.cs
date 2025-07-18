@@ -11,6 +11,6 @@ namespace BiogenomNutrition.Domain.Entities;
         public decimal Percentage { get; set; }
         public NutrientStatus Status { get; set; }
 
-        public NutritionReport Report { get; set; }
-        public Nutrient Nutrient { get; set; }
+        public NutritionReport Report { get; set; } = null!;
+        public Nutrient Nutrient { get; set; } = null!;
     }

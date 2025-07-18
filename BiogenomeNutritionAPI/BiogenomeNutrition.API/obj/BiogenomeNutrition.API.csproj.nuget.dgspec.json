@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj": {}
+    "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj": {}
   },
   "projects": {
-    "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj": {
+    "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj",
+        "projectUniqueName": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj",
         "projectName": "BiogenomeNutrition.API",
-        "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj",
+        "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj",
         "packagesPath": "C:\\Users\\20020\\.nuget\\packages\\",
-        "outputPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\obj\\",
+        "outputPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20020\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,11 +29,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
-                "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj"
+              "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
+                "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj"
               },
-              "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj": {
-                "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj"
+              "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj": {
+                "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj"
               }
             }
           }
@@ -106,14 +106,14 @@
         }
       }
     },
-    "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
+    "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj",
+        "projectUniqueName": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj",
         "projectName": "BiogenomNutrition.Application",
-        "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj",
+        "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj",
         "packagesPath": "C:\\Users\\20020\\.nuget\\packages\\",
-        "outputPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\obj\\",
+        "outputPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20020\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,8 +131,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj": {
-                "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj"
+              "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj": {
+                "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj"
               }
             }
           }
@@ -172,14 +172,14 @@
         }
       }
     },
-    "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj": {
+    "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj",
+        "projectUniqueName": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj",
         "projectName": "BiogenomNutrition.Domain",
-        "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj",
+        "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj",
         "packagesPath": "C:\\Users\\20020\\.nuget\\packages\\",
-        "outputPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\obj\\",
+        "outputPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20020\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -234,14 +234,14 @@
         }
       }
     },
-    "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj": {
+    "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj",
+        "projectUniqueName": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj",
         "projectName": "BiogenomNutrition.Infrastructure",
-        "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj",
+        "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\20020\\.nuget\\packages\\",
-        "outputPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\obj\\",
+        "outputPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\20020\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -259,11 +259,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
-                "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj"
+              "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
+                "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj"
               },
-              "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj": {
-                "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj"
+              "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj": {
+                "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Domain\\BiogenomNutrition.Domain.csproj"
               }
             }
           }

@@ -4,7 +4,7 @@ using BiogenomNutrition.Infrastructure.Data;
 using BiogenomNutrition.Infrastructure.Repositories;
 using Microsoft.EntityFrameworkCore;
 
-namespace Nutrition.API;
+namespace BiogenomNutrition.API;
 
 public class Program
 {
@@ -13,6 +13,10 @@ public class Program
         var builder = WebApplication.CreateBuilder(args);
         
         builder.Services.AddControllers();
+        
+        builder.Logging.ClearProviders();
+        builder.Logging.AddConsole();
+        builder.Logging.AddDebug();
 
         builder.Services.AddDbContext<NutritionDbContext>(options =>
             options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -20,7 +24,6 @@ public class Program
         builder.Services.AddTransient<INutritionReportRepository, NutritionReportRepository>();
         builder.Services.AddTransient<INutritionReportService, NutritionReportService>();
         
-        builder.Services.AddControllers();
         builder.Services.AddEndpointsApiExplorer();
         builder.Services.AddSwaggerGen();
         

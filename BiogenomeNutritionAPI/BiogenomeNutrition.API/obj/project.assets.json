@@ -1961,11 +1961,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj",
+      "projectUniqueName": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj",
       "projectName": "BiogenomeNutrition.API",
-      "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj",
+      "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\BiogenomeNutrition.API.csproj",
       "packagesPath": "C:\\Users\\20020\\.nuget\\packages\\",
-      "outputPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\obj\\",
+      "outputPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomeNutrition.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\20020\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1983,11 +1983,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
-              "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj"
+            "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj": {
+              "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Application\\BiogenomNutrition.Application.csproj"
             },
-            "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj": {
-              "projectPath": "C:\\C#Learn\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj"
+            "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj": {
+              "projectPath": "C:\\GitBiogenom\\BiogenomeNutritionAPI\\BiogenomNutrition.Infrastructure\\BiogenomNutrition.Infrastructure.csproj"
             }
           }
         }
@@ -2059,13 +2059,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1900",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
-    }
-  ]
+  }
 }

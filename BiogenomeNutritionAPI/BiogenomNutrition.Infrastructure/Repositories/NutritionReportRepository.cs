@@ -15,7 +15,7 @@ namespace BiogenomNutrition.Infrastructure.Repositories
             _context = context;
         }
 
-        public async Task<NutritionReport> GetLatestReportAsync()
+        public async Task<NutritionReport?> GetLatestReportAsync()
         {
             return await _context.NutritionReports
                 .Include(r => r.NutrientIntakes)
@@ -26,7 +26,7 @@ namespace BiogenomNutrition.Infrastructure.Repositories
                 .FirstOrDefaultAsync();
         }
         
-        public async Task<NutritionReport> GetReportByIdAsync(int reportId)
+        public async Task<NutritionReport?> GetReportByIdAsync(int reportId)
         {
             return await _context.NutritionReports
                 .Include(r => r.NutrientIntakes)
@@ -49,19 +49,7 @@ namespace BiogenomNutrition.Infrastructure.Repositories
                 .ToListAsync();
         }
 
-        public async Task<ContentTemplateResponse> GetBenefitsTemplateAsync()
-        {
-            var template = await _context.ContentTemplates
-                .Where(ct => ct.TemplateType == "benefits")
-                .Select(ct => ct.Content)
-                .FirstOrDefaultAsync();
 
-            if (template != null)
-            {
-                return new ContentTemplateResponse(template, true);
-            }
-            return new ContentTemplateResponse(null, false, "Преимущества не найдены");
-        }
 
         public async Task<List<NutrientIntake>> GetNutrientsByReportIdAsync(int reportId)
         {
@@ -71,7 +59,7 @@ namespace BiogenomNutrition.Infrastructure.Repositories
                 .ToListAsync();
         }
 
-        public async Task<ContentTemplate> GetBenefitsTemplateAsync(int reportId)
+        public async Task<ContentTemplate?> GetBenefitsTemplateAsync(int reportId)
         {
             return await _context.ContentTemplates
                 .Where(ct => ct.TemplateType == "benefits")

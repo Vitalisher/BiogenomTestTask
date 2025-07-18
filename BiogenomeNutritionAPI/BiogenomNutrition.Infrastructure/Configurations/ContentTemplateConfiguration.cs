@@ -2,7 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
-namespace BiogenomNutrition.Infrastructure.Repositories;
+namespace BiogenomNutrition.Infrastructure.Configurations;
 
 public class ContentTemplateConfiguration : IEntityTypeConfiguration<ContentTemplate>
 {
